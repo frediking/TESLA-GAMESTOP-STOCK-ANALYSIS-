@@ -2,6 +2,8 @@
 
 ## **Project Overview**  
 This project fetches historical stock prices and revenue data for **Tesla (TSLA)** and **GameStop (GME)** using `yfinance` and web scraping. It processes this data and visualizes the historical trends using interactive plots created with **Plotly**.  
+This is the IBM Python Data Science Project.
+
 
 ## **Features**  
 - Fetches **TSLA** and **GME** stock price data from Yahoo Finance using `yfinance`.  
