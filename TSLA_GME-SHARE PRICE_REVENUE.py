@@ -37,7 +37,7 @@ def make_graph(stock_data, revenue_data, stock):
     fig_html = fig.to_html()
     display(HTML(fig_html))
 
-
+# TESLA!
 # Using yfinance to extract Tesla stock Data
 
 Tesla = yf.Ticker("TSLA")
@@ -97,6 +97,7 @@ tesla_revenue.head()
 tesla_revenue.tail()
 
 
+# GAMESTOP !
 # Using yfinance to Extract GameStop Stock Data
 
 Gamestop = yf.Ticker('GME')
